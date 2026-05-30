@@ -16,7 +16,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a Full-Stack Developer based in **Ahmedabad, India** with **5+ years** of experience building production-grade web applications across fintech, e-commerce, healthcare, and SaaS.
+I'm a Full-Stack Developer having **5+ years** of experience building production-grade web applications across fintech, e-commerce, healthcare, and SaaS.
 
 I specialize in architecting **Node.js/NestJS backends** paired with **React/Next.js frontends** — with deep experience in **payment integrations** (Stripe, PayPal, Square, Plaid), **cloud infrastructure** (AWS Lambda, SQS, SNS), and **multi-tenant SaaS** systems.
 
