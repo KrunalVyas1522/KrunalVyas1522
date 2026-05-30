@@ -20,8 +20,6 @@ I'm a Full-Stack Developer having **5+ years** of experience building production
 
 I specialize in architecting **Node.js/NestJS backends** paired with **React/Next.js frontends** — with deep experience in **payment integrations** (Stripe, PayPal, Square, Plaid), **cloud infrastructure** (AWS Lambda, SQS, SNS), and **multi-tenant SaaS** systems.
 
-Currently open to **freelance contracts** with European and US-based clients.
-
 ---
 
 ## 🚀 Live Demo Projects
@@ -96,7 +94,7 @@ Production-ready full-stack starter — TypeScript, JWT auth, PostgreSQL, Docker
 
 ## 📫 Let's Work Together
 
-I'm available for **freelance projects**, **contract roles**, and **technical consulting** — particularly for EU and US-based clients in fintech, SaaS, and e-commerce.
+I'm available for **any projects**, **contract roles**, and **technical consulting** — particularly for EU and US-based clients in fintech, SaaS, and e-commerce.
 
 📧 **Email:** [vyaskrunal300@gmail.com](mailto:vyaskrunal300@gmail.com)
 💼 **LinkedIn:** [linkedin.com/in/krunal-vyas-864a2b1b0/](https://www.linkedin.com/in/krunal-vyas-864a2b1b0/)
